@@ -1,3 +1,5 @@
+This application utlizes the concept of OOP, namely encapsulation.
+
 
 Email Application
 
